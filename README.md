@@ -1,4 +1,4 @@
-# Introduction to Terraform
+# Introduction to Terraform.
 
 ## **Infrastructure as Code(IaC)**
 
